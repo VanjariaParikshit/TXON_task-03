@@ -6,7 +6,7 @@ $delete = false;
 // Connect to the Database 
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = ""
 $database = "notes";
 
 // Create a connection
